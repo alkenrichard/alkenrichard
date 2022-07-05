@@ -1,5 +1,6 @@
 # ALKEN RICHARD HO
-## Computer Science Student at Bina Nusantara University | Front-End Developer | UI Designer
+## Computer Science Student at Bina Nusantara University
+## Front-End Developer | UI Designer
 
 - 🌱 I’m currently learning to React Native
 
