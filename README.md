@@ -1,16 +1,20 @@
-### Hi there 👋
+# ALKEN RICHARD HO
+## Computer Science Student at Bina Nusantara University | Front-End Developer | UI Designer
 
-<!--
-**alkenrichard/alkenrichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning to React Native
 
-Here are some ideas to get you started:
+- ⚡ Software Engineering (Android Development & Website Development), UI/UX & Illustration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥅 2022 Goals: Contribute more to any projects and get the job
+
+### Connect With Me
+
+<hr>
+  
+  <a href="https://github.com/alkenrichard">
+  <img height=80% widht=80% src="https://github-readme-stats.vercel.app/api/top-langs?username=alkenrichard&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=alkenrichard&show_icons=true&theme=tokyonight">
+  </a>
+  </p>
+
+<hr>
