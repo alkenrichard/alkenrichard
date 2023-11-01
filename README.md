@@ -1,12 +1,12 @@
 # ALKEN RICHARD HO
 ## Computer Science Student at Bina Nusantara University
-## Front-End Developer | UI Designer
+## React Developer | UI/UD Designer
 
 - 🌱 I’m currently learning to React Native
 
 - ⚡ Software Engineering (Android Development & Website Development), UI/UX & Illustration
 
-- 🥅 2022 Goals: Contribute more to any projects and get the job
+- 🥅 2023 Goals: Contribute more to any projects and get the job
 
 ### Connect With Me
 
