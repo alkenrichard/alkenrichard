@@ -6,7 +6,7 @@
 
 - ⚡ Software Engineering (Android Development & Website Development), UI/UX & Illustration
 
-- 🥅 2023 Goals: Contribute more to any projects and get the job
+- 🥅 2024 Goals: Contribute more to any projects and get the job
 
 ### Connect With Me
 
