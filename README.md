@@ -2,7 +2,7 @@
 ## Computer Science Student at Bina Nusantara University
 ## React Developer | UI/UD Designer
 
-- 🌱 I’m currently learning to React Native
+- 🌱 I am currently developing my React Native skills and learning AI
 
 - ⚡ Software Engineering (Android Development & Website Development), UI/UX & Illustration
 
