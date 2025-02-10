@@ -6,7 +6,7 @@
 
 - ⚡ Software Engineering (React Development) & UI/UX
 
-- 🥅 2024 Goals: Contribute more to any projects and get the job
+- 🥅 2025 Goals: Contribute more to any projects and get the job
 
 ### Connect With Me
 
