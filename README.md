@@ -1,9 +1,9 @@
 # ALKEN RICHARD HO
 ## React Developer | AI Agent Automation | UI/UX Designer
 
-- 🌱 I am currently developing my React Native skills
+- 🌱 I am currently developing my React skills and learning about Data Engineer
 
-- ⚡ Software Engineering (React Development) & UI/UX
+- ⚡ Software Developer (React Development), UI/UX, and AI Agent Automation
 
 - 🥅 2025 Goals: Contribute more to any projects and get the job
 
